@@ -1,5 +1,14 @@
+
+/**
+ * Pushes a new message onto the conversation section of the database. Retrives
+ * the current time as well as the current user logged in. 
+ *
+ * @param {String} conversationID The conversation id to be loaded
+ * @param {String} message The message content being sent
+ * @return {none} 
+ */
 function sendMessage(conversationID, message) {
-  if (message === "" || message == "") {
+  if (message == "") {
     return;
   }
   let senderID = firebase.auth().currentUser.uid;
