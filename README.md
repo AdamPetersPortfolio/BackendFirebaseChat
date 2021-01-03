@@ -4,11 +4,11 @@ Implements the backend for a fully function, JavaScript chatting app using fireb
 
 # Database Architecture
 Users
-&nbsp;&nbsp;UserID1:
-&nbsp;&nbsp;&nbsp;&nbsp;DisplayName: treehugger1
-&nbsp;&nbsp;&nbsp;&nbsp;Favorite Artists: [Artists1, Artist2, ….]
-&nbsp;&nbsp;&nbsp;&nbsp;Favorite Songs: [Song1, Song2, ….]
-&nbsp;&nbsp;&nbsp;&nbsp;Conversations: [ConversationID1, ConversationID2]
+ * UserID1:
+    * DisplayName: treehugger1
+    * Favorite Artists: [Artists1, Artist2, ….]
+    * Favorite Songs: [Song1, Song2, ….]
+    * Conversations: [ConversationID1, ConversationID2]
 UserID2
 Conversations:
 ConversationID2
