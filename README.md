@@ -1,6 +1,6 @@
 # BackendFirebaseChat
 
-Implements the backend for a fully function, JavaScript chatting app using firebase. Authentication, login, conversation creation, and messaging are all implemented in this repository. 
+Implements the backend for a fully function, JavaScript chatting app using firebase. Authentication, login, conversation creation, and messaging are all implemented in this repository. The following code was used for a Web Design (comp20) final in which users were connected to others with a similar music taste.
 
 # Database Architecture
 Users:
@@ -12,7 +12,7 @@ Users:
     
 Conversations
  * ConversationID1 
-   * Name: “Group chat 1”
+   * Name: "Group chat 1"
    * Messages:
       * MessageID1:
          * Text: "Hello world"
