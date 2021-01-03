@@ -1,3 +1,3 @@
 # BackendFirebaseChat
 
-!(https://github.com/AdamPetersPortfolio/BackendFirebaseChat/blob/main/ChatApp.png?raw=true)
+!(ChatApp.png?raw=true)
